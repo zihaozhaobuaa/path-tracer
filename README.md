@@ -1,4 +1,4 @@
-# net-trace (C++20 skeleton)
+# path-tracer (C++20 skeleton)
 
 一个用于电连通/版图追踪类竞赛的 **C++20 / CMake** 代码库骨架。默认生成单一可执行程序 `trace`，命令行为：
 
