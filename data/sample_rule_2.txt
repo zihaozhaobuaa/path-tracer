@@ -1,0 +1,4 @@
+# Via rules between adjacent layers
+VIA M1 M2
+VIA M2 M3
+START M1 0
